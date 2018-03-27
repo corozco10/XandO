@@ -68,7 +68,7 @@ int main()
     {
     for(int c=0;c<COLUMNS;c++)
     {
-    cout<<board[r][c];
+    cout<<board[r][c]<<" ";
     }
     cout<<endl;
     }
